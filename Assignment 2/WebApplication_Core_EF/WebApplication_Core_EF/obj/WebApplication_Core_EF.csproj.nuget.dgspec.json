@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\Assignment 2\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\Assignment 2\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Assignment 2\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj",
         "projectName": "WebApplication_Core_EF",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Assignment 2\\WebApplication_Core_EF\\WebApplication_Core_EF\\WebApplication_Core_EF.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication_Core_EF\\WebApplication_Core_EF\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Assignment 2\\WebApplication_Core_EF\\WebApplication_Core_EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
